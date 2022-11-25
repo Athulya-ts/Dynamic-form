@@ -1,0 +1,40 @@
+*{
+    background-color: lightcyan;
+}
+
+.box{
+    border-style: ridge;
+    padding-top: 50px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    height:450px;
+    width:30em;
+}
+
+.row{
+    font-size: 20px;
+    font-style: inherit;
+    font-weight: bold;
+}
+
+input{
+    height: 30px;
+    width:190px;
+    border-radius: 5px;
+}
+
+.button{
+    padding-bottom: 40px;
+
+}
+
+.btn-primary{
+    height:30px;
+    width:70px;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+}
